@@ -1,4 +1,4 @@
-### YamlMime:FAQ
+~~###YamlMime:FAQ~~
 metadata:
   title: Configuration Manager on Azure FAQ
   titleSuffix: Configuration Manager
@@ -214,7 +214,7 @@ sections:
   - name: More information
     questions:
       - question: Where I can learn more about these Azure technologies?
-        answer: |
+        answer: ~
           #### Fundamentals
           - [What is Azure](https://azure.microsoft.com/overview/what-is-azure/)
 
